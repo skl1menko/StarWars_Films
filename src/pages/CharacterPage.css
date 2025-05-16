@@ -1,0 +1,15 @@
+/* src/pages/CharacterPage.module.css */
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.info {
+  margin: 10px 0;
+  font-size: 1.1rem;
+}

@@ -1,0 +1,40 @@
+/* src/pages/FilmPage.module.css */
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.info {
+  margin: 10px 0;
+  font-size: 1.1rem;
+}
+
+.crawl {
+  margin-top: 20px;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+.subtitle {
+  margin-top: 20px;
+  font-size: 1.2rem;
+}
+
+.character-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.character-link {
+  text-decoration: none;
+  color: #0077cc;
+}
+
+.character-link:hover {
+  text-decoration: underline;
+}
